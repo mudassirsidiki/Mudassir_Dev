@@ -42,7 +42,7 @@
 
 ### 📫 Contact
 
-- 📧 Email: **muddassirsidiki@gmail.com**  
+- 📧 Email: **mudassirsidiki@gmail.com**  
 - 💼 LinkedIn: [www.linkedin.com/in/muddasirsidiki](https://www.linkedin.com/in/muddasirsidiki)  
 - 🌐 GitHub: [github.com/muddasirsidiki](https://github.com/mudassirsidiki)
 
