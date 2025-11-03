@@ -23,11 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,mongodb,git,github,vscode" />
 </p>
 
-#### 📊 Data & Analytics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,plotly,postgresql,mysql,powerbi,excel,azure" />
-</p>
-
 
 ---
 
