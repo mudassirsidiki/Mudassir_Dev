@@ -1,42 +1,51 @@
-<h1 align="center">Hi, I'm Avinash</h1>
+<h1 align="center">Hi, I'm Mudassir Siddiqui 👋</h1>
 
 <p align="center">
-  <b>Creative Front-End Developer</b><br>
-  I build interactive, design-driven websites that feel alive through motion, flow, and detail.
+  <b>Full Stack Developer | Data Engineer | Data Analyst</b><br>
+  I build intelligent, data-driven solutions — combining the art of clean code, the science of data, and the creativity of design.
 </p>
 
 ---
 
-### What I Love
+### 💡 What I Love
 
-- Front-end development with a UI/UX focus  
-- Designing smooth, scroll-based web interactions  
-- Blending design, code, and storytelling  
-- Creating clean, modern digital experiences
+- Building **end-to-end web applications** using the MERN stack  
+- Developing **automated data pipelines and analytics dashboards**  
+- Exploring **data modeling, ETL workflows**, and **real-time insights**  
+- Merging **front-end design** with **backend logic** and **data intelligence**
 
 ---
 
-### Tech Stack
+### 🧠 Tech Stack
 
+#### 💻 Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,github,git,figma,photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,mongodb,git,github,vscode" />
 </p>
 
----
+#### 📊 Data & Analytics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,plotly,postgresql,mysql,powerbi,excel,azure" />
+</p>
 
-### Currently
-
-- 📍 Based in India  
-- 🔍 Open to joining creative digital studios and front-end teams  
-- 🎯 Focused on crafting web experiences that are bold, animated, and user-first
 
 ---
 
-### Contact
+### 🚀 Currently
 
-- Email: avinashmundhe1050@gmail.com  
-- LinkedIn: www.linkedin.com/in/avinasxhhh
+- 📍 Based in **Karachi, Pakistan**  
+- 💼 Working as a **Research Analyst at Dalda Foods Limited**  
+- 🧩 Building projects that merge **data analytics** with **web development**  
+- 🔍 Exploring advanced concepts in **data engineering and cloud integration**
 
 ---
 
-<p align="center"><i>“Great design is invisible, but great experiences are unforgettable.”</i></p>
+### 📫 Contact
+
+- 📧 Email: **muddassirsidiki@gmail.com**  
+- 💼 LinkedIn: [www.linkedin.com/in/muddasirsidiki](https://www.linkedin.com/in/muddasirsidiki)  
+- 🌐 GitHub: [github.com/muddasirsidiki](https://github.com/mudassirsidiki)
+
+---
+
+<p align="center"><i>“Empowering ideas through data, code, and design.”</i></p>
