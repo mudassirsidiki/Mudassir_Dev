@@ -570,6 +570,12 @@ function projectPageAnimations() {
         duration: 5,
         ease: "expo.out"
     })
+    gsap.to(".boxx17", {
+        scrollTrigger: ".boxx17",
+        y: -700,
+        duration: 5,
+        ease: "expo.out"
+    })
     gsap.from('.p-name', {
         y: -50,
         stagger: 0.5,
