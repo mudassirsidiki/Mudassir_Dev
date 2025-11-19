@@ -74,65 +74,82 @@ function menu() {
     var frame2 = document.querySelector(".menu-text2")
     var frame3 = document.querySelector(".menu-text3")
     var frame4 = document.querySelector(".menu-text4")
+    var frame5 = document.querySelector(".menu-text5")
 
-    frame1.addEventListener("mousemove", function (dets) {
-        gsap.to("#text", {
-            duration: .3,
-            y: "-5vw"
+    if (frame1) {
+        frame1.addEventListener("mousemove", function (dets) {
+            gsap.to("#text", {
+                duration: .3,
+                y: "-5vw"
+            })
         })
-    })
-    frame1.addEventListener("mouseleave", function (dets) {
-        gsap.to("#text", {
-            duration: .3,
-            y: 0
+        frame1.addEventListener("mouseleave", function (dets) {
+            gsap.to("#text", {
+                duration: .3,
+                y: 0
+            })
         })
-    })
+    }
 
-
-
-
-    frame2.addEventListener("mousemove", function (dets) {
-        gsap.to("#text2", {
-            duration: .3,
-            y: "-5vw"
+    if (frame2) {
+        frame2.addEventListener("mousemove", function (dets) {
+            gsap.to("#text2", {
+                duration: .3,
+                y: "-5vw"
+            })
         })
-    })
-    frame2.addEventListener("mouseleave", function (dets) {
-        gsap.to("#text2", {
-            duration: .3,
-            y: 0
+        frame2.addEventListener("mouseleave", function (dets) {
+            gsap.to("#text2", {
+                duration: .3,
+                y: 0
+            })
         })
-    })
+    }
 
-
-
-    frame3.addEventListener("mousemove", function (dets) {
-        gsap.to("#text3", {
-            duration: .3,
-            y: "-5vw"
+    if (frame3) {
+        frame3.addEventListener("mousemove", function (dets) {
+            gsap.to("#text3", {
+                duration: .3,
+                y: "-5vw"
+            })
         })
-    })
-    frame3.addEventListener("mouseleave", function (dets) {
-        gsap.to("#text3", {
-            duration: .3,
-            y: 0
+        frame3.addEventListener("mouseleave", function (dets) {
+            gsap.to("#text3", {
+                duration: .3,
+                y: 0
+            })
         })
-    })
+    }
 
-
-
-    frame4.addEventListener("mousemove", function (dets) {
-        gsap.to("#text4", {
-            duration: .3,
-            y: "-5vw"
+    if (frame4) {
+        frame4.addEventListener("mousemove", function (dets) {
+            gsap.to("#text4", {
+                duration: .3,
+                y: "-5vw"
+            })
         })
-    })
-    frame4.addEventListener("mouseleave", function (dets) {
-        gsap.to("#text4", {
-            duration: .3,
-            y: 0
+        frame4.addEventListener("mouseleave", function (dets) {
+            gsap.to("#text4", {
+                duration: .3,
+                y: 0
+            })
         })
-    })
+    }
+
+    if (frame5) {
+        frame5.addEventListener("mousemove", function (dets) {
+            gsap.to("#text5", {
+                duration: .3,
+                y: "-5vw"
+            })
+        })
+        frame5.addEventListener("mouseleave", function (dets) {
+            gsap.to("#text5", {
+                duration: .3,
+                y: 0
+            })
+        })
+    }
 }
 menu();
 
